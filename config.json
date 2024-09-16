@@ -1,9 +1,9 @@
 {
-    "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-fetch.yaml",
+    "url": "https://raw.githubusercontent.com/santiko/swg-xss/main/paktiko.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/VictorNS69/swagger-ui-xss/main/xss-fetch.yaml",
-            "name": "XSS payload"
+            "url": "https://raw.githubusercontent.com/santiko/swg-xss/main/paktiko.yaml",
+            "name": "XSSwagger"
         }
     ]
 }
